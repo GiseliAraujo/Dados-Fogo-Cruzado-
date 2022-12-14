@@ -1,4 +1,4 @@
-# Dados-Fogo-Cruzado-
+# Dados-Fogo-Cruzado
 Projeto de captura de dados e analise de Ações e acionamentos na Cidade do Rio de Janeiro - RJ - Mapeamento da Violência 
 
 Aqui estarei incluindo as etapas de criação, juntamente com as evidências dos seus resultados;
