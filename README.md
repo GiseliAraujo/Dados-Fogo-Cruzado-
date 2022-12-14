@@ -11,7 +11,14 @@ Aqui estarei incluindo as etapas de criação, juntamente com as evidências dos
   
   *Outro campos como "todos";
   
-  Obs.: Os arquivos estão na Pasta compactada 
+  Obs.: Os arquivos estão na Pasta compactada - Dados Capturados - Fogo Cruzado.rar
+  
+
+Latitude_Longitude em xlsx por ações por ano.rar
+
+Mapas_html.rar
+
+Ranking - 6 Lugares com mais incidência
     
   
 2- 
