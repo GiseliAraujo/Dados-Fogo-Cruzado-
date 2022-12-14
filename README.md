@@ -20,16 +20,16 @@ Criamos um arquivo em Python utilizando a biblioteca Florium para gerar mapa de 
 3 - REalizamos uma consulta na Tabela que trouxe o Ranking - 6 Lugares com mais incidência de morte no periodo de 2017 a 2022 ( Ranking - 6 Lugares com mais incidência.rar)
     
   
-2- Quais informações foram retiradas?Quais foram as perguntas aos dados?
+4- Quais informações foram retiradas?Quais foram as perguntas aos dados?
 
    Quais os 10 pontos com maior incidência de mortes do periodo de 2017 a 2022?
    
-		 Qual das Somas de ação com bala perdida de toda a Base do Rio de janeiro do periodo de 2017 a 2022?
+   Qual das Somas de ação com bala perdida de toda a Base do Rio de janeiro do periodo de 2017 a 2022?
    
-		 Qual Ações que tiveram bala perdidas por ano e por mês, do periodo de 2017 a 2022?
+   Qual Ações que tiveram bala perdidas por ano e por mês, do periodo de 2017 a 2022?
    
-		 Quais os  campos de mortes e feridos da cidade do Rio de janeiro por ano e por mês?
+   Quais os  campos de mortes e feridos da cidade do Rio de janeiro por ano e por mês?
    
-		 Quais soma Presença de Agentes, Mortes de Civis, Mortes por agentes na cidade do Rio de Janeiro em ordem decrescente Agrupado por motivo principal
+   Quais soma Presença de Agentes, Mortes de Civis, Mortes por agentes na cidade do Rio de Janeiro em ordem decrescente Agrupado por motivo principal?
    
-		 Quais soma Presença de Agentes, Mortes de Civis, Mortes por agentes na cidade do Rio de Janeiro por ano em ordem decrescente por ano e motivo principal
+   Quais soma Presença de Agentes, Mortes de Civis, Mortes por agentes na cidade do Rio de Janeiro por ano em ordem decrescente por ano e motivo principal?
